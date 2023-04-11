@@ -6,26 +6,18 @@ Usage
 To configure your Terminal using this script, follow these steps:
 
     Clone this repository to your local machine:
-
-    bash
-
-git clone https://github.com/your-username/macos-terminal-configuration.git
+        
+        git clone https://github.com/your-username/macos-terminal-configuration.git
 
 Navigate to the cloned repository:
 
-bash
-
-cd macos-terminal-configuration
+    cd macos-terminal-configuration
 
 Run the script:
 
-bash
-
-./configure-terminal.sh
+    ./configure-terminal.sh
 
 Restart your Terminal, or run the following command to reload the .zshrc file:
-
-bash
 
     source ~/.zshrc
 
