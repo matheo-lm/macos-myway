@@ -5,9 +5,9 @@ Usage
 
 To configure your Terminal using this script, follow these steps:
 
-    Clone this repository to your local machine:
+Clone this repository to your local machine:
         
-        git clone https://github.com/your-username/macos-terminal-configuration.git
+    git clone https://github.com/your-username/macos-terminal-configuration.git
 
 Navigate to the cloned repository:
 
